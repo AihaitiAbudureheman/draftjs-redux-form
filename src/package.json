@@ -1,0 +1,19 @@
+{
+  "name": "react-draft-wysiwyg-redux-forms",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "redux-logger": "3.0.6",
+    "redux-form": "7.1.1",
+    "redux": "3.7.2",
+    "react-redux": "5.0.6",
+    "react-draft-wysiwyg": "1.10.12",
+    "react-dom": "16.0.0",
+    "react": "16.0.0",
+    "node-emoji": "1.8.1",
+    "draftjs-to-html": "0.7.6",
+    "draft-js": "0.10.3"
+  }
+}
